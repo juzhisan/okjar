@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png;md5;024444F5BDB551B95CA5E9145348B899",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png;md5;272A95ECB8A47E0CDD429CE54ABB3E2E",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
   "sites": [
@@ -47,7 +47,7 @@
     {"key":"csp_Qkpanso","name":"夸克盘搜┃搜索","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/quark_cookie.txt", "danmu": true}},
     {"key":"纸条","name":"纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
     {"key":"盘Se","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
-    {"key":"找資源","name":"找資源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "username": "fanty", "password": "qqq111", "danmu": true}},
+    {"key":"找資源","name":"找資源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
     {"key":"七夜","name":"七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
     {"key":"盘搜","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
     {"key":"易搜","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true, "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"}},
