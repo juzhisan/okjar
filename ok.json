@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png;md5;CC7892432C3D78EB345E28CB1F57EA9B",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png;md5;920B883862A45E83341DCE2B7DE06C97",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
   "sites": [
@@ -21,7 +21,7 @@
       "ratio": 1.433
     },
       "ext": {
-        "type": "帕梅拉#太极拳#广场舞#健身#演唱会#电影#电视剧#动物世界#沙雕动画",
+        "type": "电影#电视剧#动物世界#沙雕动画#帕梅拉#太极拳#广场舞#健身#演唱会",
         "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
       }},
     {"key":"sp360","name":"360影视|解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":  {"danmu": true}},
